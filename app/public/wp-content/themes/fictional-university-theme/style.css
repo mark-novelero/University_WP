@@ -3,27 +3,3 @@ Theme Name: MORUS
 Author: Mark Novelero
 Version: 1.0
 */
-body {
-  color: black;
-  background-color: rgb(7, 7, 7);
-  font-family: sans-serif;
-  letter-spacing: 1.2px;
-}
-
-a {
-  display: block;
-  margin-left: 2%;
-  color: rgb(188, 245, 188);
-  text-decoration: none;
-}
-
-a:hover {
-  color: rgb(247, 241, 232);
-}
-
-p {
-  display: block;
-  padding-left: 2%;
-  padding-right: 2%;
-  color: rgb(243, 248, 222);
-}
